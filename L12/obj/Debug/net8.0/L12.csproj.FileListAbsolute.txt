@@ -1,0 +1,14 @@
+C:\Users\calos\Documentos\csharp\L12\bin\Debug\net8.0\L12.exe
+C:\Users\calos\Documentos\csharp\L12\bin\Debug\net8.0\L12.deps.json
+C:\Users\calos\Documentos\csharp\L12\bin\Debug\net8.0\L12.runtimeconfig.json
+C:\Users\calos\Documentos\csharp\L12\bin\Debug\net8.0\L12.dll
+C:\Users\calos\Documentos\csharp\L12\bin\Debug\net8.0\L12.pdb
+C:\Users\calos\Documentos\csharp\L12\obj\Debug\net8.0\L12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\calos\Documentos\csharp\L12\obj\Debug\net8.0\L12.AssemblyInfoInputs.cache
+C:\Users\calos\Documentos\csharp\L12\obj\Debug\net8.0\L12.AssemblyInfo.cs
+C:\Users\calos\Documentos\csharp\L12\obj\Debug\net8.0\L12.csproj.CoreCompileInputs.cache
+C:\Users\calos\Documentos\csharp\L12\obj\Debug\net8.0\L12.dll
+C:\Users\calos\Documentos\csharp\L12\obj\Debug\net8.0\refint\L12.dll
+C:\Users\calos\Documentos\csharp\L12\obj\Debug\net8.0\L12.pdb
+C:\Users\calos\Documentos\csharp\L12\obj\Debug\net8.0\L12.genruntimeconfig.cache
+C:\Users\calos\Documentos\csharp\L12\obj\Debug\net8.0\ref\L12.dll
